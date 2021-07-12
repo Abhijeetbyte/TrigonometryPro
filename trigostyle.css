@@ -258,7 +258,7 @@ p.code {
     font-family: courier new;
     font-size: 1em;
     color: #000;
-    background: #f0f0f0;
+    background: #FCFAF9;
     margin: 0;
     padding: 5px;
     border-width: 1px;
@@ -275,7 +275,7 @@ p.wcode {
 .calc, .calc2 {
     border-spacing: 0;
     border-collapse: separate;
-    background: #ece5c9;
+    background: #FCFAF9;
     border: 1px rgb(214, 210, 193) solid;
     -moz-border-radius: 7px;
     -webkit-border-radius: 7px;
